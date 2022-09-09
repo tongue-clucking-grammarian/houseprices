@@ -1,2 +1,3 @@
-# houseprices
-Three machine-learning models for predicting house prices are developed and diagnosed
+# Predicting House Prices
+After quickly inspecting and cleaning the data on 1460 houses in Ames, Iowa, three machine-learning models for predicting house prices are developed and diagnosed. The first two models are Decision Trees, the final model is a Random Forest. This project practices feature engineering, choosing which features to include in the model, mainly using correlation and amount of missing data. The most accurate model ends up being off by over $10,000 on average so there's much room for improvement. 
+The data comes from a Kaggle Competition that can be found here https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
